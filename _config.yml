@@ -21,8 +21,8 @@ title_separator          : "-"
 name                     : "DDaengbot"
 description              : "We recommend flights deal."
 url                      : "https://ing9321.github.io"
-baseurl                  : "/slack_chatbot"
-repository               : "ing9321/slack_chatbot"
+baseurl                  : # "/slack_chatbot"
+repository               : # "ing9321/slack_chatbot"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
