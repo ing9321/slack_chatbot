@@ -1,5 +1,5 @@
 ---
-title: [2주차 Reflection] 나만의 챗봇 - 명세서 작성
+title: 2주차 Reflection, 나만의 챗봇 - 명세서 작성
 ---
 
 서울_7반_허은지, https://github.com/ing9321/slack_chatbot
